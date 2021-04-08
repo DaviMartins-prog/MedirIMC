@@ -43,7 +43,7 @@ if (imc < 18.5 >){
   system.out.println("Obesidade grau II ! ");
 }else if (imc < 45 >){
   system.out.println("Obesidade grau III ! ");
-}else {
+}else{
     system.out.println("Procurar um médico ! ");
 
 }
